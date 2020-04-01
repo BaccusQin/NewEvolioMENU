@@ -23,7 +23,7 @@ namespace NewEvolioMenu
         public string strUserPW;
         public string strEvolioID;
         public string strEvolioPW;
-        public string test;
+       // public string test;
         public  ConnectDB()
         {
             try
